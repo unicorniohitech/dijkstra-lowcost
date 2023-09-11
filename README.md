@@ -1,4 +1,4 @@
-# Menor preço - Algoritmo De Dijkastra
+# Lowcost - Algoritmo De Dijkastra
 
 Indo por um caminho voltado para a urbanização, foi explorado uma estrutura de dados em grafo, obtida de uma base da dados com todas as conexões intermunicipais nacionais. Depois de um tratamento de dados, o escopo fixou-se no estado de Minas Gerais 770 municípios e 3472 conexões. 
 Então, foi desenvolvido, após o tratamento de dados utilizando a biblioteca Pandas, um algoritmo que busca o caminho mais barato, utilizando o transporte público, e o mais curto entre as duas cidades informadas pelo usuário.
